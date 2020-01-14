@@ -16,4 +16,4 @@ jobs:
         with:
           python-version: ${{ matrix.python-version }}
           architecture: x64
-      - run: find /home/runner/work/witherdata/witherdata -maxdepth 3 type d
+      - run: find /home/runner/work/witherdata/witherdata -maxdepth 3 
