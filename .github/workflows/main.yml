@@ -16,4 +16,4 @@ jobs:
         with:
           python-version: ${{ matrix.python-version }}
           architecture: x64
-      - run: python /home/runner/work/witherdata/witherdata/sandbox/pybuild/main.py
+      - run: python 
