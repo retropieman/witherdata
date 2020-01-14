@@ -1,6 +1,6 @@
 name: CI
 
-on: [push]
+on: push
 
 jobs:
   build:
@@ -10,9 +10,12 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     
-    - name: Run progrAM
+    - name: Run program
       run: |
         echo Add other actions to build,
         echo test, and deploy your project.
-        echo blah
+        echo Let's do this
+        echo text > text.txt
+        cat text.txt
+        
         
