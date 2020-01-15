@@ -14,14 +14,14 @@
     </image>
     <item>
       <title>The Clay</title>
-      <link></link>
+      <link>https://retropieman.github.io/witherdata/roku/vidthing/the_clay.mp4</link>
       <description>a short claymation.</description>
       <pubDate>2017</pubDate>
       <guid isPermaLink="false">12f2c4eb11e9476c86fbc5bab57e3f49</guid>
-      <media:content channels="2" bitrate="1328.0" duration="53" fileSize="8731706" framerate="23.976" height="720" type="video/mp4" width="1280" isDefault="true" url="https://storage.googleapis.com/static.wixstatic.com/raw/a0c7af_01c12fb5ef3e4ab2af5525d06de4f8f1.mp4?Expires=1578959076&GoogleAccessId=download-urls%40wixprivatemedia.iam.gserviceaccount.com&Signature=M8AanAjIBHo7MhzDYWpYpAUZFapS6X9gfuQEkkNq3z9bFxKZGPfAd2nyX2KZrlBJOJkvnPOph2wXckXmuQKDgQc5g%2FyQqfQu2cVVj1MsXu8W7EpKaNPtCxL%2Ff9zbgMLSsWkdYg%2BL7b65cfv2MWrc5YDXfKgT055%2FSVlE1q4o4hk6zmHQeM48paMVH5%2B0FoIQQzb0ggY07U%2FQzNCUOtN5ggXiuITSGeBsbmAe3q5yJuPJhhKzQbzwBStmQ2l1l2FmI1B%2FW%2BgurPbqfKeqbjDTXlzAjm3CGm%2FDPPC3EHZ%2B%2FrnVHv8z4HCcrMWPtZbrzPsZSI8J99WX%2FPdks8BZhlHZVQ%3D%3D&response-content-disposition=inline%3B+filename%3D%22the_clay.mp4%225N9emKZeXZvnrH2Yb9c/117_segment_2_twitch__nw_060515.mp4">
-        <media:description>a short claymation.</media:description>
-        <media:keywords>Claymation</media:keywords>
-        <media:thumbnail url="" />
+      <media:content channels="2" bitrate="2411" duration="1:00" fileSize="17677" framerate="5" height="720" type="video/mp4" width="1280" isDefault="true" url="https://storage.googleapis.com/static.wixstatic.com/raw/a0c7af_01c12fb5ef3e4ab2af5525d06de4f8f1.mp4?Expires=1578959076&GoogleAccessId=download-urls%40wixprivatemedia.iam.gserviceaccount.com&Signature=M8AanAjIBHo7MhzDYWpYpAUZFapS6X9gfuQEkkNq3z9bFxKZGPfAd2nyX2KZrlBJOJkvnPOph2wXckXmuQKDgQc5g%2FyQqfQu2cVVj1MsXu8W7EpKaNPtCxL%2Ff9zbgMLSsWkdYg%2BL7b65cfv2MWrc5YDXfKgT055%2FSVlE1q4o4hk6zmHQeM48paMVH5%2B0FoIQQzb0ggY07U%2FQzNCUOtN5ggXiuITSGeBsbmAe3q5yJuPJhhKzQbzwBStmQ2l1l2FmI1B%2FW%2BgurPbqfKeqbjDTXlzAjm3CGm%2FDPPC3EHZ%2B%2FrnVHv8z4HCcrMWPtZbrzPsZSI8J99WX%2FPdks8BZhlHZVQ%3D%3D&response-content-disposition=inline%3B+filename%3D%22the_clay.mp4%225N9emKZeXZvnrH2Yb9c/117_segment_2_twitch__nw_060515.mp4">
+        <media:description>A short claymation story.</media:description>
+        <media:keywords>Stop Motion</media:keywords>
+        <media:thumbnail url="https://retropieman.github.io/witherdata/roku/vidthing/1.png" />
         <media:title>THE CLAY</media:title>
       </media:content>
     </item>
